@@ -1,24 +1,22 @@
-<div align="center">
+<h3 align="center">AI Engineer</h3>
 
-# Lucas Herrero
+<p align="center">
+  Building Intelligent Systems<br/>
+  Turning Expertise Into Action
+</p>
 
-### AI Engineer
-
-**Building intelligent systems that turn expertise into action.**
-
-[![Website](https://img.shields.io/badge/Website-lucasherrero.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://lucasherrero.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-herrero-guerrero)
-[![X](https://img.shields.io/badge/X-@Lukeroe-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lukeroe)
-
-</div>
+<p align="center">
+  <a href="https://github.com/luquitas-cloud">
+    <img src="https://img.shields.io/badge/GitHub-luquitas--cloud-111827?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ## About Me
 
 I build practical AI systems that translate complex knowledge into useful products and workflows.
-
-My work sits at the intersection of agent systems, software engineering, automation, and real-world operations. I’m especially interested in how models use tools, retain context, coordinate work, and become more useful over time.
+My work sits at the intersection of agent systems, software engineering, automation, and real-world operations.
 
 I’m especially interested in:
 
@@ -41,37 +39,27 @@ I’m especially interested in:
 
 ### Core
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" alt="Core stack"/>
+</p>
 
 ### AI And Agent Systems
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-Context_Systems-6C63FF?style=flat-square)
-![Agents](https://img.shields.io/badge/Agents-Orchestration-0A0A0A?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Tool_Integration-5A45FF?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,docker" alt="AI and agent systems stack"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Agents-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Agents"/>
+  <img src="https://img.shields.io/badge/RAG-B45309?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/MCP-0F766E?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Tool%20Use-0369A1?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Tool Use"/>
+</p>
 
 ### Engineering And Delivery
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-<div align="center">
-
-### Build systems that think clearly and work practically.
-
-[Explore my work](https://lucasherrero.com/work) ·
-[Read my journal](https://lucasherrero.com/journal) ·
-[See what I’m focused on](https://lucasherrero.com/now)
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,git,github,docker,linux,vscode,postgres" alt="Engineering and delivery stack"/>
+</p>
