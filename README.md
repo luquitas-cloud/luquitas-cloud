@@ -6,8 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/luquitas-cloud">
-    <img src="https://img.shields.io/badge/GitHub-luquitas--cloud-111827?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://lucasherrero.com">
+    <img src="https://img.shields.io/badge/Website-lucasherrero.com-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-herrero-guerrero">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Lukeroe">
+    <img src="https://img.shields.io/badge/X-@Lukeroe-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
